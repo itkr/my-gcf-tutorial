@@ -1,0 +1,15 @@
+# env.yaml
+*.db
+*.pyc
+*.pyo
+.DS_Store
+.bashrc.local
+.coverage
+.idea
+.node-version
+.project
+.pydevproject
+.python-version
+/static
+local_settings.py
+venv/

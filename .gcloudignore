@@ -1,0 +1,11 @@
+.gcloudignore
+.git
+.gitignore
+Makefile
+README.md
+env.yaml
+requirements_local.txt
+test/
+venv/
+
+#!include:.gitignore
